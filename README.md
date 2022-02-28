@@ -29,7 +29,7 @@ Project created by <a href="https://github.com/Ayishu35/Ayishu-Mwol_V2">Fasil</a
 
 <h3 align="center">Contact Me:</h3>
 <p align="center">
-<a href="https://instagram.com/aftrolls_?utm_medium=copy_link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kyrie.baran" height="30" width="40" /></a>
+<a href="https://instagram.com/_aftrolls?utm_medium=copy_link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kyrie.baran" height="30" width="40" /></a>
 </p>
 <h4 align="center">Support For Bot Owner Channel 👇:</h4>
 <p align="center">
