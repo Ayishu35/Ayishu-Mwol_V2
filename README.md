@@ -60,7 +60,7 @@ Click WA logo to Join Support Group 👇
 
   ### Simple Method
   
-[![Run on Repl.it](https://www.linkpicture.com/q/Untitled-3_10.jpg)](https://replit.com/@pikachucreator/Ayishu-QR)
+[![Run on Repl.it](https://www.linkpicture.com/q/Untitled-3_10.jpg)](https://replit.com/@pikachucreator/Pikachu-QR)
 
 [![Deploy](https://i.imgur.com/d4DIca6.jpeg)](https://heroku.com/deploy?template=https://github.com/Ayishu35/Ayishu-Mwol_V2.git)
      </div>
